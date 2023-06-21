@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(37, 144, 237);
+    color: white;
+    font-size: 13px;
+    font-family: 'Cousine', monospace;
+    font-weight: 50;
+}
+
+h1{
+    font-size: clamp(40px, 10vw, 50px);
+}
+
+h2{
+    font-size: clamp(20.5px, 1vw, 30px);
+}

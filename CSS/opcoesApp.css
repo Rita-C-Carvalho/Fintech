@@ -1,0 +1,93 @@
+body{
+    position: relative;
+    height: 100vh;
+    min-height: 100%;
+}
+
+body::before{
+    content: "";
+    position:absolute;
+    inset: 0;
+    background-image: url(../Img/3.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+    z-index: -1;
+    opacity: 0.15;
+}
+
+.col{
+    border: solid 1.6px rgb(9, 9, 87);
+    height: clamp(60px, 10vw, 100px);
+    width: clamp(80px, 10vw, 120px);
+    font-size: clamp(9px, 1.5vw, 20px);
+    font-weight: bold;
+}
+
+.receipt:hover, .expenses:hover, .report:hover, .update:hover{
+    box-shadow: 0px 3px 4px 5px white;
+}
+
+a{
+    color: white;
+}
+
+.about a{
+    color: rgb(9, 9, 87);
+}
+
+.about a:hover{
+    font-size: 35px;
+}
+
+footer{
+    margin-top: auto;
+    margin-right: -80%;
+    font-size: clamp(15px, 2vw, 20px);
+    padding: 10px;
+}
+
+footer a:hover{
+    font-size: 150%;
+    color: rgb(9, 9, 87);
+}
+
+@media(min-width:390px){
+    .container{
+        width: 80%;
+    }
+}
+
+@media(min-width:500px){
+    .container{
+        width: 60%;
+    }
+    .col{
+        width: 110px;
+        font-size: 14px;
+    }
+}
+
+@media(min-width:700px){
+    .container{
+        width: 45%;
+    }
+}
+
+@media(min-width:1000px){
+    .container{
+        width: 40%;
+    }
+}
+
+@media(min-width:1200px){
+    .container{
+        width: 30%;
+    }
+}
+
+@media(min-width:1300px){
+    .container{
+        width: 25%;
+    }
+}

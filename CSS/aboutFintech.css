@@ -8,14 +8,19 @@ img{
     height: 300px;
     border: solid 2px rgb(9, 9, 87);
     align-items: center;
-    font-size: 17px;
     margin-top: 15px;
 }
 
 p{
+    font-size: 17px;
     margin: auto;
 }
 
+@media(min-width:279px) and (max-width:281px){
+    p{
+        font-size: 15px;
+    }
+}
 @media(min-width:500px){
     .container_page{
         width: 400px;

@@ -1,0 +1,43 @@
+body{
+    position: relative;
+    height: 100vh;
+    min-height: 100%;
+}
+
+body::before{
+    content: "";
+    position:absolute;
+    inset: 0;
+    background-image: url(../Img/7.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+    z-index: -1;
+    opacity: 0.15;
+}
+
+.page-container{
+    margin: auto;
+    max-width: 700px;
+    width: 100%;
+}
+
+.table-contain h2{
+    max-width: 30%;
+    font-size: 15px;
+}
+
+input{
+    max-width: 30%;
+    background-color: transparent;
+    border: none;
+    height: 50px;
+    color: white;
+}
+
+.info{
+    margin: 10px;
+    border: solid 1px rgb(9, 9, 87);
+    border-radius: 5px;
+}
+

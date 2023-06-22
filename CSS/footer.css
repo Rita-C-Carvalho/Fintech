@@ -1,0 +1,18 @@
+footer{
+    margin-top: auto;
+    font-size: clamp(15px, 2vw, 20px);
+    padding: 10px;
+}
+
+footer a{
+    color: rgb(9, 9, 87);
+}
+
+.home{
+    margin: 0px 40% 0px 0px;
+}
+
+.home:hover, .out:hover, a:hover{
+    font-size: clamp(20px, 2.5vw, 25px);
+    color: white;
+}

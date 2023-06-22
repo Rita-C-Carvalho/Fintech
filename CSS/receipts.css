@@ -8,7 +8,7 @@ body::before{
     content: "";
     position:absolute;
     inset: 0;
-    background-image: url(../Img/7.png);
+    background-image: url(../Img/10.png);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: contain;
@@ -41,3 +41,28 @@ input{
     border-radius: 5px;
 }
 
+.button{
+    background-color: rgb(9, 9, 87);
+    color: white;
+    text-decoration: none;
+    line-height: 40px;
+    border: none;
+    width: 140px;
+    height: 40px;
+}
+
+.button:hover{
+    box-shadow: 0px 1px 2px 3px;
+}
+
+@media(min-width:279px) and (max-width:281px){
+    .button{
+        margin-bottom: 60px;
+        width: 100px;
+    }
+    input{
+        max-width: 35%;
+        font-size: 9px;
+    }
+
+}

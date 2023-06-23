@@ -13,6 +13,7 @@ img{
     height: 300px;
     border: solid 2px rgb(9, 9, 87);
     align-items: center;
+    justify-content: center;
     margin-top: 15px;
 }
 

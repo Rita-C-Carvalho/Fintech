@@ -13,4 +13,5 @@
   >#### Segue abaixo links para as etapas do projeto
 
 - [Documento de visão](https://google.com)
+- [Store Mapping](https://github.com/Rita-C-Carvalho/Fintech/blob/main/Docs/Atividade%206%20-%20Story%20Mapping.pdf)
 - [Protótipo Figma](https://www.figma.com/proto/jIyWrmSiVC12iQ1BYnbMH6/Telas-Fintech?page-id=0%3A1&type=design&node-id=2-2&viewport=91%2C187%2C0.5&scaling=scale-down&starting-point-node-id=2%3A2&mode=design)

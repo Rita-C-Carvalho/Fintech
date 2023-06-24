@@ -8,7 +8,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <div>
-<p>MoneyControl é uma fintech que está sendo desenvolvida para o controle financeiro, está sendo elaborado por meio de um trabalho acadêmico da faculdade FIAP.</p>
+<p>MoneyControl é um fintech que está sendo desenvolvida para o controle financeiro, está sendo elaborado por meio de um trabalho acadêmico da faculdade FIAP.</p>
 </div>
 <br>
 
@@ -21,7 +21,7 @@
 - `Funcionalidade 3` `Cadastro de recebimentos`: O sistema deve permitir o cadastro do recebimentos dos usuários, sendo que deve possuir campos para incluir data, valor e descrição do recebimento.
   
 - `Funcionalidade 4` `Gerar relatórios`: O sistema deve permitir que o usuário gere relatórios de recebimentos, relatórios de gastos, relatórios de diferença entre gastos e recebimentos, e deve ter a possibilidade do usuário escolher ordenar e selecionar os relatórios por data.
-
+<br>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -29,11 +29,11 @@
 - ``CSS 3``
 - ``Bootstrap 5``
 - ``Figma``
+<br>
 
 
 
-
-  >#### Segue abaixo protótipo das telas criadas no Figma
+## 🖼️ Protótipo Figma
 
 <br>
 <div>

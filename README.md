@@ -8,7 +8,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <div>
-<p>MoneyControl é um fintech que está sendo desenvolvida para o controle financeiro, está sendo elaborado por meio de um trabalho acadêmico da faculdade FIAP.</p>
+<p>MoneyControl é um fintech que está sendo desenvolvido para o controle financeiro, está sendo elaborado por meio de um trabalho acadêmico da faculdade FIAP.</p>
 </div>
 <br>
 

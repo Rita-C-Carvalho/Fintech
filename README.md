@@ -8,8 +8,9 @@
 <div>
 <p>MoneyControl é uma fintech que está sendo desenvolvida para o controle financeiro, está sendo elaborado por meio de um trabalho acadêmico da faculdade FIAP.</p>
 </div>
+<br>
 
-### Segue links abaixo para passos do projetto
+  >#### Segue abaixo links para as etapas do projeto
 
 - [Documento de visão](https://google.com)
 - [Protótipo Figma](https://www.figma.com/proto/jIyWrmSiVC12iQ1BYnbMH6/Telas-Fintech?page-id=0%3A1&type=design&node-id=2-2&viewport=91%2C187%2C0.5&scaling=scale-down&starting-point-node-id=2%3A2&mode=design)
